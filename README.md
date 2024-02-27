@@ -12,12 +12,27 @@ HTML: Provides the structure and content of the web page.
 CSS: Handles the styling and visual layout of the application.
 JavaScript: Powers the age calculation functionality and interactivity of the application.
 
+## THE APP
+I can also create the Age calculator web application into the Android Application
+
+
 ## How to Contribute
 Contributions are welcome! If you'd like to contribute to this project, feel free to fork this repository, make your changes, and submit a pull request. Here are the general steps to contribute:
-1.Fork the repository by clicking the "Fork" button on the top right of this page.
+1.Fork the repository by clicking the "Fork" button on the top right of this page.<br />
 2.Clone your forked repository to your local machine:
 
 git clone https://github.com/your-username/age-calculator.git
+
+3.Create a new branch for your changes:
+
+git checkout -b feature/your-feature-name
+
+4.Make your changes, commit them, and push them to your fork:
+
+git add .<br />
+git commit -m "Your descriptive commit message"<br />
+git push origin feature/your-feature-name<br />
+
 
 
 
