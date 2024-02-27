@@ -13,7 +13,7 @@ CSS: Handles the styling and visual layout of the application.
 JavaScript: Powers the age calculation functionality and interactivity of the application.
 
 ## THE APP
-I can also create the Age calculator web application into the Android Application
+I can also create the Age calculator web application into the Android Application(AGE-CALC.APK) file download and use on it.
 
 
 ## How to Contribute
@@ -32,6 +32,19 @@ git checkout -b feature/your-feature-name
 git add .<br />
 git commit -m "Your descriptive commit message"<br />
 git push origin feature/your-feature-name<br />
+
+Finally, open a pull request on GitHub, and describe the changes you've made.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Acknowledgements
+This project was inspired by the need for a simple age calculator tool.
+Special thanks to TinyURL for providing a shortened URL service for easy access to the application.
+
+## Support
+If you have any questions or issues, feel free to open an issue on GitHub or contact me directly 
+ 
 
 
 
